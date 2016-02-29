@@ -1,0 +1,3 @@
+MatrixMaker -- makes the matrix using both functions
+test -- run file (makes matrix, run the engine)
+SGD -- Engine having algorithm.
